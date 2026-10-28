@@ -1,1 +1,3 @@
-# DLG_LAB-1
+# DLG_LAB
+NAME:Dhrishitha G
+USN:1BM24CD018
